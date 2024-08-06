@@ -1,4 +1,5 @@
 -  Hi, I’m Clifford Otieno- the Analyst
+-  I come from the beautiful city of Nairobi
 -  I love data, I will solve your problem using data
 -  I’m currently learning Python. Well-versed with Tableau, SPSS, Excel, and SQL
 -  You can reach me through email: info.cliffordomondi@gmail.com or LinkedIn: www.linkedin.com/in/theanalyst12
