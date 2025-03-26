@@ -1,7 +1,7 @@
 -  Hi, I’m Clifford Omondi- the Analyst
 -  I come from the beautiful city of Nairobi
 -  I love data, I will solve your problem using data
--  I’m currently learning Python. Well-versed with Tableau, SPSS, Excel, and SQL
+-  Works with Tableau, SPSS, Excel,Python, and SQL
 -  You can reach me through email: info.cliffordomondi@gmail.com 
 
 
